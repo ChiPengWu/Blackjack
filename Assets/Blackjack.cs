@@ -14,6 +14,7 @@ public class Blackjack : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		print("GameStart!!");
 		CreatePointsArray();
 		blackjack();
 		print("GGGGGGGGGGGGGGGG!!");
