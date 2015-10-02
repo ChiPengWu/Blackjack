@@ -17,6 +17,7 @@ public class Blackjack : MonoBehaviour {
 		print("GameStart!!");
 		CreatePointsArray();
 		blackjack();
+		print("asdfghjkl");
 	}
 
 	void CreatePointsArray(){
